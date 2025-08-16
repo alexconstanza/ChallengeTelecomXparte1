@@ -20,8 +20,8 @@ La ejecución de este proyecto permitirá al equipo de Data Science:
 - Contribuir al **crecimiento sostenible de *TelecomX*** mediante la reducción efectiva de la tasa de churn.
 
 ## Autor del Proyecto  
-**Creado por:** *Edgar Alexander Constanza Jovel*  
-**Rol:** Científico de Datos / Data Scientist  
-**Fecha:** Agosto 2025  
-**Email:** alexconstanza@gmail.com
-- 
+-**Creado por:** *Edgar Alexander Constanza Jovel*   
+-**Rol:** Científico de Datos / Data Scientist  
+-**Fecha:** Agosto 2025  
+-**Email:** alexconstanza@gmail.com
+
